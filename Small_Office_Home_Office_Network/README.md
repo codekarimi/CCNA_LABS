@@ -1,5 +1,6 @@
 # SOHO Network Implementation Project — Multi-Site Edition
 
+
 ## 📌 Project Overview
 
 This project began as a single-site SOHO (Small Office / Home Office) network and has been expanded into a **two-site network** built collaboratively by two CCNA students. Each member independently designed, configured, and secured their own LAN in Cisco Packet Tracer, and the two sites were then interconnected over a WAN link to form one combined topology.
